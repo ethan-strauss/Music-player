@@ -20,7 +20,6 @@ const songs = [{
         name: 'Lonely',
         displayName: 'G Sharp',
         artist: '3Summers',
-
     },
 ];
 
