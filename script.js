@@ -18,14 +18,9 @@ const songs = [{
     },
     {
         name: 'Lonely',
-        displayName: 'Lonely',
+        displayName: 'G Sharp',
         artist: '3Summers',
 
-    },
-    {
-        name: 'Love',
-        displayName: 'Fall in Love (Reverbed)',
-        artist: '3Summers',
     },
 ];
 
